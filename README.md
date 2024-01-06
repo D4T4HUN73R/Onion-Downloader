@@ -1,4 +1,4 @@
-# Onion-Downloader - ⚠️🚧 UNDER CONSTRUCTION 🚧⚠️
+# OnionDownloader - ⚠️🚧 UNDER CONSTRUCTION 🚧⚠️
 ## Overview
 A simple script that uses an onion base url to recursively download all files and folders over the Tor network. Mainly designed for the usecase of an ```Index of /``` website.
 
